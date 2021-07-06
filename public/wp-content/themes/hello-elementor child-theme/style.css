@@ -575,3 +575,18 @@ li {
   font-size: 100%;
   vertical-align: baseline;
   background: transparent; }
+
+
+
+/* eigener Code */
+
+  #testText1 {
+    color: lime !important;
+    background: lime !important;
+}
+
+.testText1 {
+    color: lime !important;
+    background: lime !important;
+
+}
